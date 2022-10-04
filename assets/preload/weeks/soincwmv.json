@@ -1,0 +1,58 @@
+{
+	"storyName": "soincwmv",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "menulol",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"rainbow",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"rme",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"icu",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"tol",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "soincwmv"
+}
